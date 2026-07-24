@@ -8,12 +8,12 @@ The dataset is from Kaggle. It was originally generated using Ansys HFSS simulat
 
 The dataset has 1266 rows and these columns:
 
-* freq_ghz: operating frequency (GHz)
-* patch_length_mm: length of the patch (mm)
-* patch_width_mm: width of the patch (mm)
-* slot_length_mm: length of the slot (mm)
-* slot_width_mm: width of the slot (mm)
-* s11_db: the S11 value (dB), this is the target we want to predict
+* **freq_ghz**: operating frequency (GHz)
+* **patch_length_mm**: length of the patch (mm)
+* **patch_width_mm**: width of the patch (mm)
+* **slot_length_mm**: length of the slot (mm)
+* **slot_width_mm**: width of the slot (mm)
+* **s11_db**: the S11 value (dB), this is the target we want to predict
 
 ## What I did
 * Loaded the dataset and checked the basic information (shape, columns, statistics).
