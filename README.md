@@ -1,5 +1,6 @@
-##Antenna S11 Parameter Estimation Using Machine Learning
-About this project
+## Antenna S11 Parameter Estimation Using Machine Learning
+
+About this project:
 This project tries to predict the S11 parameter (in dB) of a microstrip patch antenna. The prediction is based on some geometric parameters of the antenna and the operating frequency.
 Dataset
 The dataset is from Kaggle. It was originally generated using Ansys HFSS simulations of 8 different patch antenna designs, with different slot geometry between them. The frequency sweep goes from 1.0 GHz to 3.5 GHz, so the main working frequency (2.4 GHz) is in this range. This frequency is common for Bluetooth and WLAN devices.
